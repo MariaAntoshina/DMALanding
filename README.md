@@ -1,4 +1,4 @@
-<h1>Landing for a Digital Marketing Agency (HTML, CSS, adaprive css, pixel perfect)</h1>
+<h1>Landing for a Digital Marketing Agency (HTML, CSS, adaptive css, pixel perfect)</h1>
 
 Small website with all necessary information about the Agency. You can find basic information about services and members of the Agency. 
 
